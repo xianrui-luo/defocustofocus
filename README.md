@@ -1,7 +1,7 @@
 # Defocus to focus: Photo-realistic bokeh rendering by fusing defocus and radiance priors
-Xianrui Luo $^1$, Juewen Peng $^1$, Ke Xian $^1$, Zijin Wu $^1$, Zhiguo Cao $^1$
+Xianrui Luo<sup>1</sup>, Juewen Peng<sup>1</sup>, Ke Xian<sup>1</sup>, Zijin Wu<sup>1</sup>, Zhiguo Cao<sup>1</sup>
 
-$^1$ School of Artificial Intelligence and Automation, Huazhong University of Science and Technology
+<sup>1</sup> School of Artificial Intelligence and Automation, Huazhong University of Science and Technology
 
 ![image](https://user-images.githubusercontent.com/44058627/224534575-da961bc9-3243-4d80-a89b-c76081f4ae8f.png)
 
