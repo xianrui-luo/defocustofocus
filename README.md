@@ -10,6 +10,7 @@ $^1$ School of Artificial Intelligence and Automation, Huazhong University of Sc
 
 ## The link to the checkpoint trained on Ebb dataset
 [Stage 1](https://1drv.ms/u/s!AiM1r33tcsmxpyUG7FiALBlPAVKK?e=cfppac) 
-[Stage 2](https://1drv.ms/u/s!AiM1r33tcsmxpyZ3grOEo4Naupl3?e=fGAsFd)
+
+[Stage 2: Deep Poisson Fusion](https://1drv.ms/u/s!AiM1r33tcsmxpyZ3grOEo4Naupl3?e=fGAsFd)
 
 This repository is the official PyTorch implementation of the Information Fusion paper "Defocus to focus: Photo-realistic bokeh rendering by fusing defocus and radiance priors". 
