@@ -9,7 +9,7 @@ $^1$ School of Artificial Intelligence and Automation, Huazhong University of Sc
 ## [Paper](https://www.sciencedirect.com/science/article/pii/S1566253522001221)
 
 ## The link to the checkpoint trained on Ebb dataset
-[Stage 1](https://1drv.ms/u/s!AiM1r33tcsmxpyUG7FiALBlPAVKK?e=cfppac) 
+[Stage 1: Defocus Hallucination and Rendering](https://1drv.ms/u/s!AiM1r33tcsmxpyUG7FiALBlPAVKK?e=cfppac) 
 
 [Stage 2: Deep Poisson Fusion](https://1drv.ms/u/s!AiM1r33tcsmxpyZ3grOEo4Naupl3?e=fGAsFd)
 
