@@ -3,7 +3,7 @@ Xianrui Luo $^1$, Juewen Peng $^1$, Ke Xian $^1$, Zijin Wu $^1$, Zhiguo Cao $^1$
 
 $^1$ School of Artificial Intelligence and Automation, Huazhong University of Science and Technology
 
-[pipeline-v2-3-black.pdf](https://github.com/notorious-eric/defocustofocus/files/10950369/pipeline-v2-3-black.pdf)
+![image](https://user-images.githubusercontent.com/44058627/224534575-da961bc9-3243-4d80-a89b-c76081f4ae8f.png)
 
 
 ## [Paper](https://www.sciencedirect.com/science/article/pii/S1566253522001221)
