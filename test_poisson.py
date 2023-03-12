@@ -20,8 +20,9 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 
 def main():
-   
+      # checkpoint for defocus hallucination
     check_path ='.pth'
+     # checkpoint for deep poisson fusion
     check_path1='.pth'
 
     #onestage
