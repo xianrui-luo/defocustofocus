@@ -6,7 +6,7 @@ Xianrui Luo<sup>1</sup>, Juewen Peng<sup>1</sup>, Ke Xian<sup>1</sup>, Zijin Wu<
 ![image](https://user-images.githubusercontent.com/44058627/224534575-da961bc9-3243-4d80-a89b-c76081f4ae8f.png)
 
 
-## [Paper](https://www.sciencedirect.com/science/article/pii/S1566253522001221)
+### [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253522001221)
 
 ## The link to the checkpoint trained on Ebb dataset
 [Stage 1: Defocus Hallucination](https://1drv.ms/u/s!AiM1r33tcsmxpyUG7FiALBlPAVKK?e=cfppac) 
