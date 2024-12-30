@@ -5,6 +5,7 @@ Xianrui Luo<sup>1</sup>, Juewen Peng<sup>1</sup>, Ke Xian<sup>1</sup>, Zijin Wu<
 
 ![image](https://user-images.githubusercontent.com/44058627/224534575-da961bc9-3243-4d80-a89b-c76081f4ae8f.png)
 
+This paper is an extension from conference paper on AIM 2020 Challenge on Rendering Realistic Bokeh ["Bokeh rendering from defocus estimation"](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_15)
 
 ### [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253522001221)
 
