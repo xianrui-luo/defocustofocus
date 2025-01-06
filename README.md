@@ -18,3 +18,17 @@ This repository is the official PyTorch implementation of the Information Fusion
 
 ### Usage
 `python test.py`
+
+### Citation
+If you find our work useful in your research, please cite our paper.
+```
+@article{luo2023defocus,
+  title={Defocus to focus: Photo-realistic bokeh rendering by fusing defocus and radiance priors},
+  author={Luo, Xianrui and Peng, Juewen and Xian, Ke and Wu, Zijin and Cao, Zhiguo},
+  journal={Information Fusion},
+  volume={89},
+  pages={320--335},
+  year={2023},
+  publisher={Elsevier}
+}
+```
